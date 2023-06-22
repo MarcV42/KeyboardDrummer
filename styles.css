@@ -1,0 +1,137 @@
+body {
+  text-align: center;
+  background-color: #38abd5;
+}
+
+h1 {
+  font-size: 6rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #1025ca;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  
+}
+
+footerklein {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  font-size: x-small;
+  
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+ background-image: url("images/tom2.png");
+}
+
+.s {
+background-image: url("images/tom3.png");
+}
+
+.d {
+background-image: url("images/tom4.png");
+}
+
+.c {
+background-image: url("images/tom2.png");
+}
+ 
+.f {
+background-image: url("images/tom3.png");
+}
+
+.g {
+background-image: url("images/synth.png");
+}
+.h {
+background-image: url("images/woofer.png");
+}
+
+.t {
+background-image: url("images/crash.png");
+}
+ 
+.u {
+background-image: url("images/Rol.png");
+}
+ 
+.v {
+background-image: url("images/bassguitar.png");
+}
+
+.b {
+background-image: url("images/bass.png");
+}
+
+.n {
+background-image: url("images/bassguitar.png");
+}
+
+.j {
+background-image: url("images/snare.png");
+}
+
+.k {
+background-image: url("images/crash.png");
+}
+
+.m {
+background-image: url("images/Rol.png");
+}
+
+.l {
+background-image: url("images/kick.png");
+}
+
+.set {
+  margin-top: 10% auto;
+  margin: 4% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.9;
+}
+
+.red {
+  color: rgb(234, 13, 145);
+}
+
+.drum {
+  outline: none;
+  border: 11px solid #495a88;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2,2;
+  font-weight: 980;
+  color: #2099e9;
+  text-shadow: 10px 0 #e3b976;
+  border-radius: 17px;
+  display: inline-block;
+  width: 180px;
+  height: 180px;
+  text-align: center;
+  margin: 11px;
+  background-color: rgb(248, 239, 239);
+}
+
+.Rec-img {
+  margin: 150px 5px 10px 20px;
+  margin-bottom: 40px;
+  border-radius: 5rex;
+  height: 180px;
+
+}
